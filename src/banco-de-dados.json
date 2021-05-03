@@ -1,0 +1,17 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Pedro Alvares"
+    },
+    {
+      "id": 2,
+      "nome": "Padre Anchieta"
+    },
+    {
+      "nome": "Caio",
+      "id": 3
+    }
+  ],
+  "solicitacoes": []
+}
