@@ -91,23 +91,13 @@
     },
     {
       "status": "Abertura",
-      "titulo": "TesteCategoria",
-      "atendente": "Iago",
-      "cliente": "Bruno",
-      "categoria": "Esclarecimentos",
-      "dataInicial": "3/5/2021",
-      "id": 7,
-      "ultimaAtualizacao": "3/5/2021 (54:40)"
-    },
-    {
-      "status": "Abertura",
       "titulo": "TesteCategoria2",
       "atendente": "Iago",
       "cliente": "Valim",
       "categoria": "Contratos",
       "dataInicial": "3/5/2021",
       "id": 8,
-      "ultimaAtualizacao": "3/5/2021 (54:34)"
+      "ultimaAtualizacao": "3/5/2021 (4:34)"
     },
     {
       "status": "Abertura",
