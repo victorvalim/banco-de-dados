@@ -13,5 +13,15 @@
       "id": 3
     }
   ],
-  "solicitacoes": []
+  "solicitacoes": [
+    {
+      "status": "Abertura",
+      "titulo": "Aprendizado",
+      "atendente": "Caio",
+      "cliente": "Victor",
+      "categoria": "Investimentos",
+      "dataInicial": "3/5/2021",
+      "id": 1
+    }
+  ]
 }
