@@ -11,6 +11,14 @@
     {
       "nome": "Caio",
       "id": 3
+    },
+    {
+      "nome": "Iago",
+      "id": 4
+    },
+    {
+      "nome": "Samuel",
+      "id": 5
     }
   ],
   "solicitacoes": [
@@ -19,9 +27,86 @@
       "titulo": "Aprendizado",
       "atendente": "Caio",
       "cliente": "Victor",
+      "categoria": "Contratos",
+      "dataInicial": "3/5/2021",
+      "id": 1,
+      "ultimaAtualizacao": "3/5/2021 (49:54)"
+    },
+    {
+      "status": "Análise Inicial",
+      "titulo": "Aprendizado",
+      "atendente": "Padre Anchieta",
+      "cliente": "Pedro Alvares",
+      "categoria": "Contratos",
+      "dataInicial": "3/5/2021",
+      "id": 2,
+      "ultimaAtualizacao": "3/5/2021 (12:19)"
+    },
+    {
+      "status": "Relatório Inicial",
+      "titulo": "Aprendizado",
+      "atendente": "Iago",
+      "cliente": "Hugo",
+      "categoria": "Esclarecimentos",
+      "dataInicial": "3/5/2021",
+      "id": 3,
+      "ultimaAtualizacao": "3/5/2021 (12:51)"
+    },
+    {
+      "status": "Relatório Final",
+      "titulo": "Aprendizado",
+      "atendente": "Caio",
+      "cliente": "Victor",
+      "categoria": "Esclarecimentos",
+      "dataInicial": "3/5/2021",
+      "id": 4,
+      "ultimaAtualizacao": "3/5/2021 (11:8)"
+    },
+    {
+      "status": "Concluída",
+      "titulo": "Aprendizado",
+      "atendente": "Iago",
+      "cliente": "Hugo",
+      "categoria": "Contratos",
+      "dataInicial": "3/5/2021",
+      "id": 5,
+      "ultimaAtualizacao": "3/5/2021 (10:37)"
+    },
+    {
+      "status": "Abertura",
+      "titulo": "TesteCategoria4",
+      "atendente": "Padre Anchieta",
+      "cliente": "Hugo",
       "categoria": "Investimentos",
       "dataInicial": "3/5/2021",
-      "id": 1
+      "id": 6
+    },
+    {
+      "status": "Abertura",
+      "titulo": "TesteCategoria",
+      "atendente": "Iago",
+      "cliente": "Bruno",
+      "categoria": "Esclarecimentos",
+      "dataInicial": "3/5/2021",
+      "id": 7
+    },
+    {
+      "status": "Abertura",
+      "titulo": "TesteCategoria",
+      "atendente": "Iago",
+      "cliente": "Valim",
+      "categoria": "Investimentos",
+      "dataInicial": "3/5/2021",
+      "id": 8
+    },
+    {
+      "status": "Abertura",
+      "titulo": "TesteCategoria2",
+      "atendente": "Samuel",
+      "cliente": "Victor",
+      "categoria": "gjflsghs",
+      "dataInicial": "3/5/2021",
+      "id": 9
     }
   ]
 }
