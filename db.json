@@ -19,6 +19,14 @@
     {
       "nome": "Samuel",
       "id": 5
+    },
+    {
+      "nome": "Tulio",
+      "id": 6
+    },
+    {
+      "nome": "Tiago",
+      "id": 7
     }
   ],
   "solicitacoes": [
@@ -30,7 +38,7 @@
       "categoria": "Contratos",
       "dataInicial": "3/5/2021",
       "id": 1,
-      "ultimaAtualizacao": "3/5/2021 (49:54)"
+      "ultimaAtualizacao": "3/5/2021 (13:13)"
     },
     {
       "status": "Análise Inicial",
@@ -40,7 +48,7 @@
       "categoria": "Contratos",
       "dataInicial": "3/5/2021",
       "id": 2,
-      "ultimaAtualizacao": "3/5/2021 (12:19)"
+      "ultimaAtualizacao": "3/5/2021 (14:10)"
     },
     {
       "status": "Relatório Inicial",
@@ -50,17 +58,17 @@
       "categoria": "Esclarecimentos",
       "dataInicial": "3/5/2021",
       "id": 3,
-      "ultimaAtualizacao": "3/5/2021 (12:51)"
+      "ultimaAtualizacao": "3/5/2021 (14:36)"
     },
     {
       "status": "Relatório Final",
       "titulo": "Aprendizado",
       "atendente": "Caio",
       "cliente": "Victor",
-      "categoria": "Esclarecimentos",
+      "categoria": "NFGDAKjghja",
       "dataInicial": "3/5/2021",
       "id": 4,
-      "ultimaAtualizacao": "3/5/2021 (11:8)"
+      "ultimaAtualizacao": "3/5/2021 (4:43)"
     },
     {
       "status": "Concluída",
@@ -88,25 +96,28 @@
       "cliente": "Bruno",
       "categoria": "Esclarecimentos",
       "dataInicial": "3/5/2021",
-      "id": 7
-    },
-    {
-      "status": "Abertura",
-      "titulo": "TesteCategoria",
-      "atendente": "Iago",
-      "cliente": "Valim",
-      "categoria": "Investimentos",
-      "dataInicial": "3/5/2021",
-      "id": 8
+      "id": 7,
+      "ultimaAtualizacao": "3/5/2021 (54:40)"
     },
     {
       "status": "Abertura",
       "titulo": "TesteCategoria2",
-      "atendente": "Samuel",
-      "cliente": "Victor",
-      "categoria": "gjflsghs",
+      "atendente": "Iago",
+      "cliente": "Valim",
+      "categoria": "Contratos",
       "dataInicial": "3/5/2021",
-      "id": 9
+      "id": 8,
+      "ultimaAtualizacao": "3/5/2021 (54:34)"
+    },
+    {
+      "status": "Abertura",
+      "titulo": "Aprendizado",
+      "atendente": "Samuel",
+      "cliente": "Valim",
+      "categoria": "asfdfadf",
+      "dataInicial": "3/5/2021",
+      "id": 9,
+      "ultimaAtualizacao": "3/5/2021 (18:41)"
     }
   ]
 }
